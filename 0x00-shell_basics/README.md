@@ -1,1 +1,1 @@
-sytem devops
+shell basics
